@@ -44,6 +44,10 @@ academico
 acc
 accept
 acceptatie
+devenv
+devenv1
+devenv2
+slave
 acceso
 access
 account
@@ -1289,6 +1293,7 @@ platinum
 plugins
 pluto
 pm
+prep
 pm1
 pma
 poczta
